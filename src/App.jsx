@@ -1,13 +1,11 @@
 import Header from "./header";
-import StudentForm from "./studentform";
-import StudentCard from "./studentcard";
+import Home from "./home";
 
 export default function App() {
   return (
     <div className="App">
       <Header />
-      <StudentForm />
-      <StudentCard />
+     <Home />
 
       
     </div>
